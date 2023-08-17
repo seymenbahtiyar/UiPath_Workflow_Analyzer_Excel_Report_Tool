@@ -7,6 +7,12 @@ This tool allows you to easily export the UiPath Workflow Analyzer results to an
 - UiPath Studio
 - Microsoft Excel
 
+## Usage
+
+- Run the project.
+- In the file selection screen, select the .json file you exported using Workflow Analyzer.
+- The Excel report output will appear on your desktop after the process is finished.
+
 ## License
 
 [MIT](https://github.com/seymenbahtiyar/UiPath_Workflow_Analyzer_Excel_Report_Tool/blob/main/LICENSE)
