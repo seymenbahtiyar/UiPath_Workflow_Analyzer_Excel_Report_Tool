@@ -9,7 +9,7 @@ This tool allows you to easily export the UiPath Workflow Analyzer results to an
 
 ## Prerequisites
 
-- UiPath Studio
+- UiPath Studio (recommended 22.10.3.0 or +)
 - Microsoft Excel
 
 ## Usage
